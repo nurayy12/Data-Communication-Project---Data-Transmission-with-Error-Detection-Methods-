@@ -1,4 +1,0 @@
-﻿  Client2_Receiver.cpp
-C:\Users\Tuğba\source\repos\Client2_Receiver\Client2_Receiver\Client2_Receiver.cpp(65,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Tuğba\source\repos\Client2_Receiver\Client2_Receiver\Client2_Receiver.cpp(66,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Client2_Receiver.vcxproj -> C:\Users\Tuğba\source\repos\Client2_Receiver\x64\Debug\Client2_Receiver.exe
