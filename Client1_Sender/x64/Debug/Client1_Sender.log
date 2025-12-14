@@ -1,0 +1,4 @@
+﻿  Client1_Sender.cpp
+C:\Users\Tuğba\source\repos\Client2_Receiver\Client1_Sender\Client1_Sender.cpp(23,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuğba\source\repos\Client2_Receiver\Client1_Sender\Client1_Sender.cpp(140,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client1_Sender.vcxproj -> C:\Users\Tuğba\source\repos\Client2_Receiver\x64\Debug\Client1_Sender.exe

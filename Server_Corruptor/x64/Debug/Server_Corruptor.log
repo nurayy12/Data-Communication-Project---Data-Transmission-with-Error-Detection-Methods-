@@ -1,0 +1,6 @@
+﻿  Server_Corruptor.cpp
+C:\Users\Tuğba\source\repos\Client2_Receiver\Server_Corruptor\Server_Corruptor.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tuğba\source\repos\Client2_Receiver\Server_Corruptor\Server_Corruptor.cpp(41,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuğba\source\repos\Client2_Receiver\Server_Corruptor\Server_Corruptor.cpp(42,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuğba\source\repos\Client2_Receiver\Server_Corruptor\Server_Corruptor.cpp(59,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server_Corruptor.vcxproj -> C:\Users\Tuğba\source\repos\Client2_Receiver\x64\Debug\Server_Corruptor.exe
