@@ -1,9 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Client1_Sender/Client1_Sender.vcxproj" Id="d3a6e695-19bb-420f-9bf7-9962005c8532" />
-  <Project Path="Client2_Receiver/Client2_Receiver.vcxproj" Id="059c4c23-58f6-4656-91c7-80666b033ada" />
-  <Project Path="Server_Corruptor/Server_Corruptor.vcxproj" Id="3e644457-3aac-4639-9a3c-08e844811a9e" />
-</Solution>
